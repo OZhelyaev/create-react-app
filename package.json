@@ -29,5 +29,10 @@
     "yarn.lock": [
       "git rm --cached"
     ]
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^3.3.7",
+    "react-bootstrap": "^0.31.3"
   }
 }
